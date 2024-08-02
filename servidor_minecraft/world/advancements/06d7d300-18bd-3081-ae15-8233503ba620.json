@@ -670,19 +670,91 @@
     },
     "done": false
   },
-  "blue_skies:recipes/blue_skies_tools/starlit_sword": {
+  "minecraft:nether/obtain_blaze_rod": {
     "criteria": {
-      "has_resource": "2024-08-01 23:47:34 +0000"
+      "blaze_rod": "2024-08-01 22:42:57 +0000"
     },
     "done": true
   },
-  "blue_skies:recipes/blue_skies_tools/pyrope_shovel": {
+  "blue_skies:root": {
     "criteria": {
-      "has_resource": "2024-08-01 23:42:52 +0000"
+      "enter_everbright": "2024-08-01 23:10:35 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:everbright/enter": {
+    "criteria": {
+      "enter_everbright": "2024-08-01 23:10:35 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:thinking_with_portals": {
+    "criteria": {
+      "enter_everbright": "2024-08-01 23:10:35 +0000"
+    },
+    "done": false
+  },
+  "blue_skies:everbright/get_wood": {
+    "criteria": {
+      "has_bluebright_log": "2024-08-01 23:18:10 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/bluebright_axe": {
+    "criteria": {
+      "has_resource": "2024-08-01 23:18:20 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/bluebright_pickaxe": {
+    "criteria": {
+      "has_resource": "2024-08-01 23:18:20 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/bluebright_hoe": {
+    "criteria": {
+      "has_resource": "2024-08-01 23:18:20 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/bluebright_shovel": {
+    "criteria": {
+      "has_resource": "2024-08-01 23:18:20 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/bluebright_sword": {
+    "criteria": {
+      "has_resource": "2024-08-01 23:18:20 +0000"
     },
     "done": true
   },
   "blue_skies:recipes/blue_skies_tools/turquoise_stone_hoe": {
+    "criteria": {
+      "has_resource": "2024-08-01 23:24:03 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/turquoise_stone_sword": {
+    "criteria": {
+      "has_resource": "2024-08-01 23:24:03 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/turquoise_stone_axe": {
+    "criteria": {
+      "has_resource": "2024-08-01 23:24:03 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/turquoise_stone_shovel": {
+    "criteria": {
+      "has_resource": "2024-08-01 23:24:03 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/turquoise_stone_pickaxe": {
     "criteria": {
       "has_resource": "2024-08-01 23:24:03 +0000"
     },
@@ -694,33 +766,33 @@
     },
     "done": true
   },
-  "blue_skies:recipes/blue_skies_tools/starlit_pickaxe": {
+  "blue_skies:get_aquite": {
     "criteria": {
-      "has_resource": "2024-08-01 23:47:34 +0000"
+      "obtain_material": "2024-08-01 23:25:27 +0000"
     },
     "done": true
   },
-  "blue_skies:root": {
+  "blue_skies:recipes/blue_skies_tools/aquite_axe": {
     "criteria": {
-      "enter_everbright": "2024-08-01 23:10:35 +0000"
+      "has_resource": "2024-08-01 23:25:27 +0000"
     },
     "done": true
   },
-  "minecraft:nether/obtain_blaze_rod": {
+  "blue_skies:recipes/blue_skies_tools/aquite_sword": {
     "criteria": {
-      "blaze_rod": "2024-08-01 22:42:57 +0000"
+      "has_resource": "2024-08-01 23:25:27 +0000"
     },
     "done": true
   },
-  "blue_skies:recipes/blue_skies_tools/turquoise_stone_sword": {
+  "blue_skies:recipes/blue_skies_tools/aquite_pickaxe": {
     "criteria": {
-      "has_resource": "2024-08-01 23:24:03 +0000"
+      "has_resource": "2024-08-01 23:25:27 +0000"
     },
     "done": true
   },
-  "blue_skies:everbright/enter": {
+  "blue_skies:recipes/blue_skies_tools/aquite_shovel": {
     "criteria": {
-      "enter_everbright": "2024-08-01 23:10:35 +0000"
+      "has_resource": "2024-08-01 23:25:27 +0000"
     },
     "done": true
   },
@@ -742,75 +814,33 @@
     },
     "done": true
   },
-  "blue_skies:get_pyrope": {
-    "criteria": {
-      "obtain_material": "2024-08-01 23:42:52 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/blue_skies_tools/starlit_axe": {
-    "criteria": {
-      "has_resource": "2024-08-01 23:47:34 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:get_aquite": {
-    "criteria": {
-      "obtain_material": "2024-08-01 23:25:27 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/blue_skies_tools/bluebright_axe": {
-    "criteria": {
-      "has_resource": "2024-08-01 23:18:20 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/blue_skies_tools/starlit_shovel": {
-    "criteria": {
-      "has_resource": "2024-08-01 23:47:34 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/blue_skies_tools/aquite_axe": {
-    "criteria": {
-      "has_resource": "2024-08-01 23:25:27 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:everbright/get_wood": {
-    "criteria": {
-      "has_bluebright_log": "2024-08-01 23:18:10 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/blue_skies_tools/aquite_sword": {
-    "criteria": {
-      "has_resource": "2024-08-01 23:25:27 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/blue_skies_tools/turquoise_stone_axe": {
-    "criteria": {
-      "has_resource": "2024-08-01 23:24:03 +0000"
-    },
-    "done": true
-  },
   "blue_skies:recipes/blue_skies_tools/diopside_shovel": {
     "criteria": {
       "has_resource": "2024-08-01 23:25:28 +0000"
     },
     "done": true
   },
-  "blue_skies:recipes/blue_skies_tools/bluebright_pickaxe": {
+  "blue_skies:recipes/blue_skies_tools/diopside_sword": {
     "criteria": {
-      "has_resource": "2024-08-01 23:18:20 +0000"
+      "has_resource": "2024-08-01 23:25:28 +0000"
     },
     "done": true
   },
-  "blue_skies:recipes/blue_skies_tools/turquoise_stone_shovel": {
+  "blue_skies:recipes/blue_skies_tools/diopside_hoe": {
     "criteria": {
-      "has_resource": "2024-08-01 23:24:03 +0000"
+      "has_resource": "2024-08-01 23:25:28 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/pyrope_shovel": {
+    "criteria": {
+      "has_resource": "2024-08-01 23:42:52 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:get_pyrope": {
+    "criteria": {
+      "obtain_material": "2024-08-01 23:42:52 +0000"
     },
     "done": true
   },
@@ -826,33 +856,9 @@
     },
     "done": true
   },
-  "blue_skies:recipes/blue_skies_tools/diopside_sword": {
-    "criteria": {
-      "has_resource": "2024-08-01 23:25:28 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/blue_skies_tools/aquite_pickaxe": {
-    "criteria": {
-      "has_resource": "2024-08-01 23:25:27 +0000"
-    },
-    "done": true
-  },
   "blue_skies:recipes/blue_skies_tools/pyrope_pickaxe": {
     "criteria": {
       "has_resource": "2024-08-01 23:42:52 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/blue_skies_tools/diopside_hoe": {
-    "criteria": {
-      "has_resource": "2024-08-01 23:25:28 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/blue_skies_tools/bluebright_hoe": {
-    "criteria": {
-      "has_resource": "2024-08-01 23:18:20 +0000"
     },
     "done": true
   },
@@ -862,39 +868,33 @@
     },
     "done": true
   },
-  "blue_skies:recipes/blue_skies_tools/aquite_shovel": {
+  "blue_skies:recipes/blue_skies_tools/starlit_sword": {
     "criteria": {
-      "has_resource": "2024-08-01 23:25:27 +0000"
+      "has_resource": "2024-08-01 23:47:34 +0000"
     },
     "done": true
   },
-  "blue_skies:recipes/blue_skies_tools/turquoise_stone_pickaxe": {
+  "blue_skies:recipes/blue_skies_tools/starlit_pickaxe": {
     "criteria": {
-      "has_resource": "2024-08-01 23:24:03 +0000"
+      "has_resource": "2024-08-01 23:47:34 +0000"
     },
     "done": true
   },
-  "blue_skies:recipes/blue_skies_tools/bluebright_shovel": {
+  "blue_skies:recipes/blue_skies_tools/starlit_axe": {
     "criteria": {
-      "has_resource": "2024-08-01 23:18:20 +0000"
+      "has_resource": "2024-08-01 23:47:34 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/starlit_shovel": {
+    "criteria": {
+      "has_resource": "2024-08-01 23:47:34 +0000"
     },
     "done": true
   },
   "blue_skies:recipes/blue_skies_tools/starlit_hoe": {
     "criteria": {
       "has_resource": "2024-08-01 23:47:34 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:thinking_with_portals": {
-    "criteria": {
-      "enter_everbright": "2024-08-01 23:10:35 +0000"
-    },
-    "done": false
-  },
-  "blue_skies:recipes/blue_skies_tools/bluebright_sword": {
-    "criteria": {
-      "has_resource": "2024-08-01 23:18:20 +0000"
     },
     "done": true
   },
