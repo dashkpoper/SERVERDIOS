@@ -236,6 +236,7 @@
       "minecraft:desert": "2024-08-01 17:29:30 +0000",
       "minecraft:jungle": "2024-08-01 18:22:37 +0000",
       "minecraft:ocean": "2024-08-02 03:42:34 +0000",
+      "minecraft:flower_forest": "2024-08-03 03:59:57 +0000",
       "minecraft:old_growth_birch_forest": "2024-08-01 22:25:57 +0000",
       "minecraft:savanna": "2024-08-01 18:03:14 +0000",
       "minecraft:plains": "2024-08-01 17:25:21 +0000"
@@ -500,6 +501,7 @@
       "scorching_caves": "2024-08-01 20:27:31 +0000",
       "rocky_meadow": "2024-08-01 18:01:33 +0000",
       "blackwood_taiga": "2024-08-01 18:25:32 +0000",
+      "ochard": "2024-08-03 03:59:58 +0000",
       "flower_fields": "2024-08-02 03:43:58 +0000",
       "highland_fields": "2024-08-01 18:29:06 +0000",
       "magnolia_highlands": "2024-08-01 18:11:29 +0000",
@@ -516,6 +518,7 @@
       "grassy_beach": "2024-08-01 18:01:37 +0000",
       "rocky_meadow": "2024-08-01 18:01:33 +0000",
       "blackwood_taiga": "2024-08-01 18:25:32 +0000",
+      "ochard": "2024-08-03 03:59:58 +0000",
       "flower_fields": "2024-08-02 03:43:58 +0000",
       "highland_fields": "2024-08-01 18:29:06 +0000",
       "magnolia_highlands": "2024-08-01 18:11:29 +0000",
@@ -906,6 +909,18 @@
   "minecraft:story/deflect_arrow": {
     "criteria": {
       "deflected_projectile": "2024-08-02 03:40:40 +0000"
+    },
+    "done": true
+  },
+  "vinery:main/get_apple": {
+    "criteria": {
+      "apple": "2024-08-03 04:01:00 +0000"
+    },
+    "done": true
+  },
+  "goblins_tyranny:merchant_success": {
+    "criteria": {
+      "merchant_success_0": "2024-08-03 04:02:27 +0000"
     },
     "done": true
   },
