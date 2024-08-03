@@ -777,3 +777,4 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [03Aug2024 03:31:00.784] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
 [03Aug2024 03:31:00.784] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
 [03Aug2024 03:31:00.784] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[03Aug2024 03:45:22.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pambestre425: Teleported Pambestre425 to 360.500000, 63.500000, -501.500000]
